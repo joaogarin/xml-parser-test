@@ -1,0 +1,15 @@
+{
+  "name": "jobiqo-xml-node",
+  "version": "1.0.0",
+  "description": "Nodejs Parser for XML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joao Garin <joao.garin@gmail.com> (https://joaogarin.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "xml-stream": "^0.4.5",
+    "xml2js": "^0.4.19"
+  }
+}

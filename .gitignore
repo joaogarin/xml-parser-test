@@ -1,0 +1,9 @@
+# Node modules
+node_modules
+
+# The actual feeds
+feed_smaller.xml
+feed.xml
+
+# Output
+output.txt
