@@ -4,6 +4,7 @@
   "description": "Nodejs Parser for XML",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js > output.txt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Joao Garin <joao.garin@gmail.com> (https://joaogarin.com/)",
